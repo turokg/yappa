@@ -20,7 +20,8 @@ async def call_app(application, event):
         host_url = f"https://{host_url}"
     body_to_bytes(event)
 
-    async with httpx.AsyncClient(app=application, base_url=host_url) as client:
+    transport = httpx.ASGITransport(app=application)
+    async with httpx.AsyncClient(transport=transport, base_url=host_url) as client:
         request = client.build_request(
             method=event["httpMethod"],
             url=event["url"],
