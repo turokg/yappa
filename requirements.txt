@@ -7,7 +7,7 @@ attrs==21.2.0
 backports.zoneinfo==0.2.1
 black==22.6.0
 boltons==21.0.0
-boto3==1.17.95
+boto3==1.42.79
 botocore==1.20.95
 certifi==2021.5.30
 cffi==1.14.5
