@@ -43,7 +43,7 @@ Jinja2==3.0.1
 jmespath==0.10.0
 kappa==0.6.0
 lazy-object-proxy==1.7.1
-MarkupSafe==2.0.1
+MarkupSafe==3.0.3
 mccabe==0.7.0
 mypy-extensions==0.4.3
 nodeenv==1.7.0
