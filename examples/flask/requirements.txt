@@ -3,7 +3,7 @@ certifi==2021.5.30
 click==8.0.1
 Flask==2.0.1
 h11==0.12.0
-httpcore==0.13.6
+httpcore==1.0.9
 httpx==0.18.2
 idna==3.2
 itsdangerous==2.0.1
