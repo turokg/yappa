@@ -61,7 +61,7 @@ protobuf==3.17.3
 py==1.10.0
 pycparser==2.20
 pydantic==1.8.2
-PyJWT==2.1.0
+PyJWT==2.12.1
 pylint==2.14.4
 pyparsing==2.4.7
 pytest==6.2.4
