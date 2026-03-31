@@ -1,5 +1,5 @@
 boto3
-botocore
+botocore==1.42.79
 Flask
 httpx
 PyYAML
