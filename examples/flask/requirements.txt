@@ -1,5 +1,5 @@
 anyio==3.3.0
-certifi==2021.5.30
+certifi==2026.2.25
 click==8.0.1
 Flask==2.0.1
 h11==0.12.0
