@@ -38,7 +38,7 @@ identify==2.5.1
 idna==2.10
 iniconfig==1.1.1
 isort==5.10.1
-itsdangerous==2.0.1
+itsdangerous==2.2.0
 Jinja2==3.0.1
 jmespath==0.10.0
 kappa==0.6.0
