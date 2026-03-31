@@ -1,6 +1,6 @@
 boto3
 botocore
-Flask
+Flask==3.1.3
 httpx
 PyYAML
 yappa>=0.4.18
