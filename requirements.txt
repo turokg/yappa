@@ -92,6 +92,6 @@ virtualenv==20.15.1
 Werkzeug==2.0.2
 wrapt==1.14.1
 wsgi-request-logger==0.4.6
-yandexcloud==0.102.1
+yandexcloud==0.384.0
 pytest-rerunfailures==10.2
 
