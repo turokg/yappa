@@ -5,7 +5,7 @@ asgiref>=3.3.4
 astroid==2.11.7
 attrs==21.2.0
 backports.zoneinfo==0.2.1
-black==22.6.0
+black==26.3.1
 boltons==21.0.0
 boto3==1.17.95
 botocore==1.20.95
