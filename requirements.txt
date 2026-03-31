@@ -36,7 +36,7 @@ httpcore==0.13.6
 httpx==0.18.2
 identify==2.5.1
 idna==2.10
-iniconfig==1.1.1
+iniconfig==2.3.0
 isort==5.10.1
 itsdangerous==2.0.1
 Jinja2==3.0.1
