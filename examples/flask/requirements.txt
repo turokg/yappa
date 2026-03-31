@@ -10,7 +10,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 MarkupSafe==2.0.1
 PyYAML==5.4.1
-rfc3986==1.5.0
+rfc3986==2.0.0
 sniffio==1.2.0
 Werkzeug==2.0.1
 jinja2
