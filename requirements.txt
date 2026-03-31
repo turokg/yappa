@@ -68,7 +68,7 @@ pytest==6.2.4
 pytest-asyncio==0.15.1
 pytest-rerunfailures==10.2
 python-dateutil==2.8.1
-python-slugify==3.0.6
+python-slugify==8.0.4
 pytz==2021.1
 PyYAML==5.4.1
 requests==2.25.1
