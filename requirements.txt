@@ -55,7 +55,7 @@ pip-tools==6.2.0
 placebo==0.9.0
 platformdirs==2.5.2
 pluggy==0.13.1
-pre-commit==2.20.0
+pre-commit==4.5.1
 pre-commit-hooks==4.3.0
 protobuf==3.17.3
 py==1.10.0
