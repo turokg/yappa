@@ -1,6 +1,6 @@
 aiofiles==0.8.0
 anyio==3.2.1
-argcomplete==1.12.3
+argcomplete==3.6.3
 asgiref>=3.3.4
 astroid==2.11.7
 attrs==21.2.0
