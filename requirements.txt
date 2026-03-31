@@ -52,7 +52,7 @@ packaging==20.9
 pathspec==0.9.0
 pep517==0.10.0
 pip-tools==6.2.0
-placebo==0.9.0
+placebo==0.10.0
 platformdirs==2.5.2
 pluggy==0.13.1
 pre-commit==2.20.0
