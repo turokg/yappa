@@ -16,7 +16,7 @@ cfn-flip==1.2.3
 chardet==4.0.0
 click==8.0.1
 cryptography==3.4.7
-dill==0.3.5.1
+dill==0.4.1
 distlib==0.3.5
 Django==4.0.2
 django-rest-framework==0.1.0
