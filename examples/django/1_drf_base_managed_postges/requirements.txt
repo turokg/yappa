@@ -18,7 +18,7 @@ httpcore==0.13.6
 httpx==0.18.2
 idna==2.10
 jmespath==0.10.0
-orderedmultidict==1.0.1
+orderedmultidict==1.0.2
 protobuf==3.17.3
 pycparser==2.20
 PyJWT==2.1.0
