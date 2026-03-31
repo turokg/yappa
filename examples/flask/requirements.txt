@@ -13,4 +13,4 @@ PyYAML==5.4.1
 rfc3986==1.5.0
 sniffio==1.2.0
 Werkzeug==2.0.1
-jinja2
+jinja2==3.1.6
