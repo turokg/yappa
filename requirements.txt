@@ -42,7 +42,7 @@ itsdangerous==2.0.1
 Jinja2==3.0.1
 jmespath==0.10.0
 kappa==0.6.0
-lazy-object-proxy==1.7.1
+lazy-object-proxy==1.12.0
 MarkupSafe==2.0.1
 mccabe==0.7.0
 mypy-extensions==0.4.3
