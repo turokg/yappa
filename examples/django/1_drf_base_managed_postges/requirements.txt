@@ -1,7 +1,7 @@
 anyio==3.2.1
 asgiref==3.4.1
 boltons==21.0.0
-boto3==1.18.3
+boto3==1.42.79
 botocore==1.21.3
 certifi==2021.5.30
 cffi==1.14.6
