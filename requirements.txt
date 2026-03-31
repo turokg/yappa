@@ -90,7 +90,7 @@ typing-extensions==3.10.0.0
 urllib3==1.26.5
 virtualenv==20.15.1
 Werkzeug==2.0.2
-wrapt==1.14.1
+wrapt==2.1.2
 wsgi-request-logger==0.4.6
 yandexcloud==0.102.1
 pytest-rerunfailures==10.2
