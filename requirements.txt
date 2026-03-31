@@ -32,7 +32,7 @@ googleapis-common-protos==1.53.0
 grpcio==1.38.1
 h11==0.12.0
 hjson==3.0.2
-httpcore==0.13.6
+httpcore==1.0.9
 httpx==0.18.2
 identify==2.5.1
 idna==2.10
