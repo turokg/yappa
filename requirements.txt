@@ -3,7 +3,7 @@ anyio==3.2.1
 argcomplete==1.12.3
 asgiref>=3.3.4
 astroid==2.11.7
-attrs==21.2.0
+attrs==26.1.0
 backports.zoneinfo==0.2.1
 black==22.6.0
 boltons==21.0.0
