@@ -16,7 +16,7 @@ httpx==0.18.2
 idna==2.10
 jmespath==0.10.0
 orderedmultidict==1.0.1
-protobuf==3.17.3
+protobuf==7.34.1
 pycparser==2.20
 PyJWT==2.1.0
 python-dateutil==2.8.2
