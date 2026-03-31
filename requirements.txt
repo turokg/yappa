@@ -18,7 +18,7 @@ click==8.0.1
 cryptography==3.4.7
 dill==0.3.5.1
 distlib==0.3.5
-Django==4.0.2
+Django==6.0.3
 django-rest-framework==0.1.0
 djangorestframework==3.12.4
 durationpy==0.5
