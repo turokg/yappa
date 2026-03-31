@@ -57,7 +57,7 @@ platformdirs==2.5.2
 pluggy==0.13.1
 pre-commit==2.20.0
 pre-commit-hooks==4.3.0
-protobuf==3.17.3
+protobuf==7.34.1
 py==1.10.0
 pycparser==2.20
 pydantic==1.8.2
