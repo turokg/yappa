@@ -60,7 +60,7 @@ pre-commit-hooks==4.3.0
 protobuf==3.17.3
 py==1.10.0
 pycparser==2.20
-pydantic==1.8.2
+pydantic==2.12.5
 PyJWT==2.1.0
 pylint==2.14.4
 pyparsing==2.4.7
