@@ -75,7 +75,7 @@ requests==2.25.1
 rfc3986==1.5.0
 ruamel.yaml==0.17.21
 ruamel.yaml.clib==0.2.6
-s3transfer==0.4.2
+s3transfer==0.16.1
 six==1.16.0
 sniffio==1.2.0
 sqlparse>=0.4.2
