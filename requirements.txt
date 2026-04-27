@@ -23,7 +23,7 @@ django-rest-framework==0.1.0
 djangorestframework==3.12.4
 durationpy==0.5
 Faker==8.9.1
-fastapi==0.65.2
+fastapi==0.136.1
 filelock==3.7.1
 Flask==2.0.1
 furl==2.1.2
