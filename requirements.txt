@@ -53,7 +53,7 @@ pathspec==0.9.0
 pep517==0.10.0
 pip-tools==6.2.0
 placebo==0.9.0
-platformdirs==2.5.2
+platformdirs==4.9.6
 pluggy==0.13.1
 pre-commit==2.20.0
 pre-commit-hooks==4.3.0
