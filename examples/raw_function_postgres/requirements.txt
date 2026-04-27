@@ -1,6 +1,6 @@
 anyio==3.2.1
 boltons==21.0.0
-boto3==1.17.112
+boto3==1.42.96
 botocore==1.20.112
 certifi==2021.5.30
 cffi==1.14.6
