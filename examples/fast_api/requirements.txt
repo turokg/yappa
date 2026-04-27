@@ -4,7 +4,7 @@ fastapi==0.68.0
 h11==0.12.0
 httpcore==0.13.6
 httpx==0.18.2
-idna==3.2
+idna==3.13
 pydantic==1.8.2
 PyYAML==5.4.1
 rfc3986==1.5.0
